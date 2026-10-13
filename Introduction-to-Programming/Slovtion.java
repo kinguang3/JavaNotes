@@ -11,10 +11,12 @@ public class Slovtion {
             double x1 = (-b + Math.sqrt(dev)) / (2*a);
             double x2 = (-b - Math.sqrt(dev)) / (2*a);
             System.out.println("方程有两个不同的实数根：x1 = " + x1 + ", x2 = " + x2);
-        } else if (dev == 0) {
+        } 
+        else if (dev == 0) {
             double x = -b / (2*a);
             System.out.println("方程有一个实数根：x = " + x);
-        } else {
+        } 
+        else {
             System.out.println("方程没有实数根。");
         }
     }
