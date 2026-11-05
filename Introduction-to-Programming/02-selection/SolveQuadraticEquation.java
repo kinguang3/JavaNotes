@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Slovtion {
+public class SolveQuadraticEquation {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("请输入三个整数：");

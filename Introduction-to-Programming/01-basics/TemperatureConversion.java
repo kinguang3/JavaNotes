@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Tem {
+public class TemperatureConversion {
 
     public static void main (String args[]){
         double tem;

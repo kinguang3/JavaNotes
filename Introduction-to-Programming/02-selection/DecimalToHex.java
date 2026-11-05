@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class DecimalTOHex {
+public class DecimalToHex {
    public static void main (String args[]){
         Scanner input = new Scanner(System.in);
         int num = input.nextInt();
